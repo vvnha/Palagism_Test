@@ -13,9 +13,12 @@
     "difflib": "^0.2.4",
     "express": "^4.17.1",
     "file-system": "^2.2.2",
+    "glob": "^7.1.7",
     "node-stream-zip": "^1.15.0",
     "pdf-parse": "^1.1.1",
     "pdfreader": "^1.2.11",
+    "textract": "^2.5.0",
+    "worker-threads": "^1.0.0",
     "xlsx": "^0.17.2"
   }
 }
