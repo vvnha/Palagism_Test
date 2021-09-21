@@ -37,6 +37,6 @@ const getTemp = async (path) => {
         console.log(error);
     }
 }
-
+getTemp(path1);
 getSimilitary(path1, path4);
 
