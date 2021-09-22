@@ -1,9 +1,9 @@
 {
   "name": "y",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -14,6 +14,7 @@
     "express": "^4.17.1",
     "file-system": "^2.2.2",
     "glob": "^7.1.7",
+    "keyword-extractor": "^0.0.20",
     "node-stream-zip": "^1.15.0",
     "pdf-parse": "^1.1.1",
     "pdfreader": "^1.2.11",
